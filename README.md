@@ -8,7 +8,7 @@ Agradeço ao excelent post do [GabrielSozinho](https://www.tabnews.com.br/Gabrie
 
 Sem muita enrolação, segue a lista do que já fiz e estou fazendo:
 
-OBS: quem quiser baixar o .apk direto, segue o [link](https://expo.dev/artifacts/eas/bArEWvSXuVVQ1wnBL69V4f.apk)
+OBS: quem quiser baixar o .apk direto, segue o [link]()
 
 ## Instalação / Teste
 
@@ -46,13 +46,13 @@ OBS: quem quiser baixar o .apk direto, segue o [link](https://expo.dev/artifacts
 
 ### Relevantes
 
-![Relevantes](https://github.com/joseotaviopc/Tabnews-React-Native/blob/main/assets/images/relevantes.jpg)
+![Relevantes](https://github.com/joseotaviopc/Tabnews-React-Native/assets/images/relevantes.jpg)
 
 ### Recentes
 
-![Recentes](https://github.com/joseotaviopc/Tabnews-React-Native/blob/main/assets/images/recentes.jpg)
+![Recentes](https://github.com/joseotaviopc/Tabnews-React-Native/assets/images/recentes.jpg)
 
 ### Posts
 
-![Post01](https://github.com/joseotaviopc/Tabnews-React-Native/blob/main/assets/images/post01.jpg)
-![Post02](https://github.com/joseotaviopc/Tabnews-React-Native/blob/main/assets/images/post02.jpg)
+![Post01](https://github.com/joseotaviopc/Tabnews-React-Native/assets/images/Post01.jpg)
+![Post02](https://github.com/joseotaviopc/Tabnews-React-Native/assets/images/Post02.jpg)
